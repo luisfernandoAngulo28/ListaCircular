@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWKK0FW2U+tGIwDCdLwFEMc60QIYAeipdk6GQ67ML48/ACqGWe+IWdKDyBY2xtxKfRXscx0TxzywGxHeu7iltQ==",
+  "success": true,
+  "projectFilePath": "E:\\EDI\\ED v1\\ListaCircular\\CApp\\CApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
